@@ -1,0 +1,140 @@
+{
+    "page": {
+        "title": "02 Vue3の初心者向け学習ステップ",
+        "level": "1.3",
+        "depth": 1,
+        "next": {
+            "title": "11 JavaScript基礎学習のステップバイステップガイド",
+            "level": "2.1",
+            "depth": 1,
+            "path": "10_JavaScriptの基礎を理解する/11_JavaScript基礎学習のステップバイステップガイド.md",
+            "ref": "10_JavaScriptの基礎を理解する/11_JavaScript基礎学習のステップバイステップガイド.md",
+            "articles": []
+        },
+        "previous": {
+            "title": "01 Genieの自己紹介",
+            "level": "1.2",
+            "depth": 1,
+            "path": "00_概要/01_Genieの自己紹介.md",
+            "ref": "00_概要/01_Genieの自己紹介.md",
+            "articles": []
+        },
+        "dir": "ltr"
+    },
+    "config": {
+        "plugins": [
+            "-lunr",
+            "-search",
+            "search-pro-fixed",
+            "flexible-alerts",
+            "copy-code-button",
+            "intopic-toc",
+            "summary",
+            "livereload"
+        ],
+        "styles": {
+            "website": "styles/website.css",
+            "pdf": "styles/pdf.css",
+            "epub": "styles/epub.css",
+            "mobi": "styles/mobi.css",
+            "ebook": "styles/ebook.css",
+            "print": "styles/print.css"
+        },
+        "pluginsConfig": {
+            "intopic-toc": {
+                "selector": ".markdown-section h1, .markdown-section h2, .markdown-section h3, .markdown-section h4, .markdown-section h5, .markdown-section h6",
+                "mode": "flat",
+                "maxDepth": 6,
+                "isCollapsed": true,
+                "isScrollspyActive": true,
+                "visible": true,
+                "label": "In this article"
+            },
+            "livereload": {},
+            "summary": {},
+            "search-pro-fixed": {},
+            "fontsettings": {
+                "theme": "white",
+                "family": "sans",
+                "size": 2
+            },
+            "highlight": {},
+            "flexible-alerts": {
+                "style": "flat",
+                "note": {
+                    "label": "Note",
+                    "icon": "fa fa-info-circle",
+                    "className": "info"
+                },
+                "tip": {
+                    "label": "Tip",
+                    "icon": "fa fa-lightbulb-o",
+                    "className": "tip"
+                },
+                "warning": {
+                    "label": "Warning",
+                    "icon": "fa fa-exclamation-triangle",
+                    "className": "warning"
+                },
+                "danger": {
+                    "label": "Attention",
+                    "icon": "fa fa-ban",
+                    "className": "danger"
+                }
+            },
+            "copy-code-button": {},
+            "theme-default": {
+                "styles": {
+                    "website": "styles/website.css",
+                    "pdf": "styles/pdf.css",
+                    "epub": "styles/epub.css",
+                    "mobi": "styles/mobi.css",
+                    "ebook": "styles/ebook.css",
+                    "print": "styles/print.css"
+                },
+                "showLevel": false
+            }
+        },
+        "theme": "default",
+        "author": "kmkmk",
+        "pdf": {
+            "pageNumbers": true,
+            "fontSize": 12,
+            "fontFamily": "Arial",
+            "paperSize": "a4",
+            "chapterMark": "pagebreak",
+            "pageBreaksBefore": "/",
+            "margin": {
+                "right": 62,
+                "left": 62,
+                "top": 56,
+                "bottom": 56
+            },
+            "embedFonts": false
+        },
+        "structure": {
+            "langs": "LANGS.md",
+            "readme": "README.md",
+            "glossary": "GLOSSARY.md",
+            "summary": "SUMMARY.md"
+        },
+        "variables": {},
+        "title": "vue3 tutorial",
+        "language": "ja",
+        "gitbook": "*",
+        "description": "vue3のチュートリアル"
+    },
+    "file": {
+        "path": "00_概要/02_Vue3の初心者向け学習ステップ.md",
+        "mtime": "2023-04-01T11:36:32.733Z",
+        "type": "markdown"
+    },
+    "gitbook": {
+        "version": "4.0.7",
+        "time": "2023-04-02T06:07:58.851Z"
+    },
+    "basePath": "..",
+    "book": {
+        "language": ""
+    }
+}

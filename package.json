@@ -1,0 +1,30 @@
+{
+  "name": "vue_tutorial",
+  "version": "1.0.0",
+  "description": "vue3のチュートリアルです。",
+  "main": "index.js",
+  "scripts": {
+    "summary:build":"book sm",
+    "honkit:build":"honkit build",
+    "honkit:serve":"honkit serve"
+  },
+  "keywords": [
+    "vue3",
+    "tutorial",
+    "created_with_chatGPT"
+  ],
+  "author": "kmkmk",
+  "license": "ISC",
+  "devDependencies": {
+    "gitbook-plugin-flexible-alerts": "^1.0.4",
+    "gitbook-plugin-search-pro-fixed": "^1.0.1",
+    "gitbook-plugin-summary": "^1.1.0",
+    "honkit": "^4.0.7"
+  },
+  "dependencies": {
+    "gitbook-plugin-collapsible-chapters": "^0.1.8",
+    "gitbook-plugin-copy-code-button": "^0.0.2",
+    "gitbook-plugin-intopic-toc": "^1.1.1",
+    "gitbook-plugin-theme-default": "^1.0.7"
+  }
+}

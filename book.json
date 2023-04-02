@@ -1,0 +1,23 @@
+{
+    "root": ".",
+    "title": "vue3 tutorial",
+    "description": "vue3のチュートリアル",
+    "author": "kmkmk",
+    "language": "ja",
+    "plugins": [
+        "-lunr", "-search", "search-pro-fixed",
+        "flexible-alerts",    
+        "copy-code-button",
+        "intopic-toc",
+        "collapsible-chapters"
+    ],
+    "pluginsConfig": {
+        "flexible-alerts": {
+            "style": "flat"
+        },
+        "intopic-toc": {
+            "mode": "flat",
+            "label": "In this article"
+        }
+    }
+}
