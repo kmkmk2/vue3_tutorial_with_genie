@@ -5,8 +5,9 @@
   "main": "index.js",
   "scripts": {
     "summary:build":"book sm",
-    "honkit:build":"honkit build",
-    "honkit:serve":"honkit serve"
+    "honkit:build":"npm run history:create && honkit build",
+    "honkit:serve":"npm run history:create && honkit serve",
+    "history:create":"make-history.bat"
   },
   "keywords": [
     "vue3",
